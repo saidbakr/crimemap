@@ -22,3 +22,4 @@ try:
         connection.commit()
 finally:
     connection.close()
+    
